@@ -17,5 +17,7 @@ class MainActivity : AppCompatActivity() {
 }
 
 fun main(){
+    if (3 == length(MainActivity().firstThree)){
 
+    }
 }
